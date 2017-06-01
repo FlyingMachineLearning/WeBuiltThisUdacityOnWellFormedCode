@@ -1,0 +1,76 @@
+body {
+background-color: #F0F8FF;
+}
+h1,h2,h3 {
+  text-align: center;
+}/* that's awesome that that works!*/
+
+div {
+  border-radius: 10px;
+  border: 2px solid;
+  margin: 10px;
+  padding: 10px;
+  background-color: #FAEBD7;
+}
+.words {
+  width: 350px;
+}
+div.standup {
+  border-color: red;
+  display: inline-block;
+}
+
+img.standup {
+  border: 2px solid red;
+  border-radius: 10px;
+}
+
+div.improv {
+  border-color: orange;
+  display: inline-block;
+}
+
+img.improv {
+  border: 2px solid orange;
+  border-radius: 10px;
+}
+
+div.sketch {
+  border-color: yellow;
+  display: inline-block;
+}
+
+img.sketch {
+  border: 2px solid yellow;
+  border-radius: 10px;
+}
+
+div.sitcom {
+  border-color: green;
+  display: inline-block;
+}
+
+img.sitcom {
+  border: 2px solid green;
+  border-radius: 10px;
+}
+
+div.movie {
+  border-color: blue;
+  display: inline-block;
+}
+
+img.movie {
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+
+div.parody {
+  border-color: purple;
+  display: inline-block;
+}
+
+img.parody {
+  border: 2px solid purple;
+  border-radius: 10px;
+}
