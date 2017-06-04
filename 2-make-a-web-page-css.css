@@ -15,8 +15,7 @@ div {
 .words {
   width: 350px;
 }
-div.standup {
-  border-color: red;
+div.genre{
   display: inline-block;
 }
 
@@ -25,19 +24,9 @@ img.standup {
   border-radius: 10px;
 }
 
-div.improv {
-  border-color: orange;
-  display: inline-block;
-}
-
 img.improv {
   border: 2px solid orange;
   border-radius: 10px;
-}
-
-div.sketch {
-  border-color: yellow;
-  display: inline-block;
 }
 
 img.sketch {
@@ -45,29 +34,14 @@ img.sketch {
   border-radius: 10px;
 }
 
-div.sitcom {
-  border-color: green;
-  display: inline-block;
-}
-
 img.sitcom {
   border: 2px solid green;
   border-radius: 10px;
 }
 
-div.movie {
-  border-color: blue;
-  display: inline-block;
-}
-
 img.movie {
   border: 2px solid blue;
   border-radius: 10px;
-}
-
-div.parody {
-  border-color: purple;
-  display: inline-block;
 }
 
 img.parody {
